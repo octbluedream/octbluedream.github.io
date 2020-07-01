@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-07-01T08:18:46.808Z</updated>
+  <updated>2020-07-01T07:33:20.438Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,28 +15,6 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>jeremt test word</title>
-    <link href="http://yoursite.com/2020/07/01/jeremt-test-word/"/>
-    <id>http://yoursite.com/2020/07/01/jeremt-test-word/</id>
-    <published>2020-07-01T08:13:19.000Z</published>
-    <updated>2020-07-01T08:18:46.808Z</updated>
-    
-    <content type="html"><![CDATA[<p>����һƪ�������£���ӭ��ע���߲���[1]: <a href="https://github.com/octbluedream/" target="_blank" rel="noopener">https://github.com/octbluedream/</a></p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;����һƪ�������£���ӭ��ע���߲���[1]: &lt;a href=&quot;https://github.com/octbluedream/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://github.com/octbluedrea
-      
-    
-    </summary>
-    
-    
-    
-  </entry>
   
   <entry>
     <title>Hello World</title>
